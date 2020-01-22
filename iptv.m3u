@@ -203,9 +203,6 @@ http://pull.gzbqd.com:80/live/6136c7783bbda556d9d0f0c48161fd2c.flv
 #EXTINF:-1 tvg-id="127" tvg-logo="noimage.png" group-title="香港", TVB明珠台
 http://hls.ws.anyrtc.io:80/live/fd36e78116c01b5b8a01a4e5ec329375.flv
 
-#EXTINF:-1 tvg-id="131" tvg-logo="noimage.png" group-title="香港", TVB星河
-http://192.154.103.74:8080/ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8
-
 #EXTINF:-1 tvg-id="130" tvg-logo="noimage.png" group-title="香港", 無綫新聞台
 http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 
@@ -256,6 +253,9 @@ http://wowgua.com/live/channel_630.m3u8
 
 #EXTINF:-1 tvg-id="412" tvg-logo="noimage.png" group-title="香港", 香港衛視
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
+#EXTINF:-1 tvg-id="131" tvg-logo="noimage.png" group-title="香港", TVB星河
+http://192.154.103.74:8080/ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="香港", 香港01直播
 https://live.cdn.hk01.com/origin/smil:01news.smil/playlist.m3u8
