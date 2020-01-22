@@ -195,10 +195,25 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8
 http://198.16.106.58:8278/jade_twn/playlist.m3u8?tid=m0800270e38b31200553&ct=17898&tsum=b39db993e81b9ff6ebac20dcbf4a1cdd
 
 #EXTINF:-1 tvg-id="126" tvg-logo="noimage.png" group-title="香港", 翡翠台 備
-http://pili-live-hdl.qhmywl.com/dsdtv/b3a93cbbd1908e81783879747bb3090a.flv
+http://pull.gzbqd.com:80/live/ad30ccd49c9cb999eb3f4afc31dcd7cb.flv
+
+#EXTINF:-1 tvg-id="416" tvg-logo="noimage.png" group-title="香港", TVB J2
+http://pull.gzbqd.com:80/live/6136c7783bbda556d9d0f0c48161fd2c.flv
+
+#EXTINF:-1 tvg-id="127" tvg-logo="noimage.png" group-title="香港", TVB明珠台
+http://hls.ws.anyrtc.io:80/live/fd36e78116c01b5b8a01a4e5ec329375.flv
+
+#EXTINF:-1 tvg-id="131" tvg-logo="noimage.png" group-title="香港", TVB星河
+http://192.154.103.74:8080/ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8
 
 #EXTINF:-1 tvg-id="130" tvg-logo="noimage.png" group-title="香港", 無綫新聞台
 http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+
+#EXTINF:-1 tvg-id="130" tvg-logo="noimage.png" group-title="香港", 無綫新聞台 備
+http://pull.gzbqd.com:80/live/e315629ab2416a77b2ee4cec3951d081.flv
+
+#EXTINF:-1 tvg-id="133" tvg-logo="noimage.png" group-title="香港", 無綫財經·資訊台
+http://pull.gzbqd.com:80/live/112fbb6052fc9f9b96ffaadb79e8018b.flv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="香港", ViuTV96
 http://viutv96-i.akamaihd.net/hls/live/265285/live1/master.m3u8
@@ -241,9 +256,6 @@ http://wowgua.com/live/channel_630.m3u8
 
 #EXTINF:-1 tvg-id="412" tvg-logo="noimage.png" group-title="香港", 香港衛視
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-
-#EXTINF:-1 tvg-id="131" tvg-logo="noimage.png" group-title="香港", TVB星河
-http://192.154.103.74:8080/ZZ_tvbxinghe/ZZ_tvbxinghe.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="香港", 香港01直播
 https://live.cdn.hk01.com/origin/smil:01news.smil/playlist.m3u8
@@ -315,7 +327,7 @@ http://pili-live-hdl.qhmywl.com/dsdtv/10e21c98ff74745141a386d91da24c56.flv
 http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 
 #EXTINF:-1 tvg-id="6073" tvg-logo="noimage.png" group-title="台灣", TVBS新聞台 HD 備
-http://hls.ws.anyrtc.io:80/live/b3e2376a840d2e85bc53f3aee5c27833.flv
+http://hls.ws.anyrtc.io:80/live/b6c05fd67ccc7eedc0d8fc7af06fef96.flv
 
 #EXTINF:-1 tvg-id="6071" tvg-logo="noimage.png" group-title="台灣", 民視新聞台 HD
 https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
