@@ -291,7 +291,7 @@ http://192.200.108.130:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 http://pili-live-hdl.qhmywl.com/dsdtv/318e4839a23f9ff15e327de9bcb31687.flv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="台灣", 中天新聞 HD
-http://192.200.108.130:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+https://www.youtube.com/watch?v=wUPPkSANpyo
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="台灣", 中天新聞 HD 備
 http://pili-live-hdl.qhmywl.com/dsdtv/e1a397539e76f45bbbf39d1467024aa3.flv
