@@ -200,29 +200,17 @@ http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk32.jpg" group-title="香港", 港台電視32
 http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="香港", RTHK Live
+http://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
+
 #EXTINF:-1 tvg-id="7118" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="香港", 香港開電視
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
-#EXTINF:-1 tvg-id="126" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港", 翡翠台 （源1）
+#EXTINF:-1 tvg-id="126" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港", 翡翠台
 http://198.16.106.58:8278/jade_twn/playlist.m3u8?tid=m0800270e38b31200553&ct=17898&tsum=b39db993e81b9ff6ebac20dcbf4a1cdd
-
-#EXTINF:-1 tvg-id="126" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港", 翡翠台 （源2）
-http://pull.gzbqd.com:80/live/ad30ccd49c9cb999eb3f4afc31dcd7cb.flv
-
-#EXTINF:-1 tvg-id="416" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="香港", TVB J2
-http://pull.gzbqd.com:80/live/6136c7783bbda556d9d0f0c48161fd2c.flv
-
-#EXTINF:-1 tvg-id="127" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="香港", TVB明珠台
-http://hls.ws.anyrtc.io:80/live/fd36e78116c01b5b8a01a4e5ec329375.flv
 
 #EXTINF:-1 tvg-id="130" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="香港", 無綫新聞台
 http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
-
-#EXTINF:-1 tvg-id="130" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="香港", 無綫新聞台 備
-http://pull.gzbqd.com:80/live/e315629ab2416a77b2ee4cec3951d081.flv
-
-#EXTINF:-1 tvg-id="133" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-finance.jpg" group-title="香港", 無綫財經·資訊台
-http://pull.gzbqd.com:80/live/112fbb6052fc9f9b96ffaadb79e8018b.flv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.viu.tv/14959a9afb6a26ee41fe5f6b88ea7cd7.jpg" group-title="香港", ViuTV96
 http://viutv96-i.akamaihd.net/hls/live/265285/live1/master.m3u8
@@ -302,68 +290,14 @@ http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="澳門", 澳門立法會直播
 http://live4.tdm.com.mo/tv/ch21.live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6030" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台灣", 華視 HD （源1）
-http://hls.ws.anyrtc.io:80/live/8eb722a5054dd6d180b81df35dfa86f2.flv
-
-#EXTINF:-1 tvg-id="6030" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台灣", 華視 HD （源2）
-http://192.200.108.130:8080/ZZ_huashi/ZZ_huashi.m3u8
-
-#EXTINF:-1 tvg-id="6026" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="台灣", 台視 HD
-http://hls.ws.anyrtc.io:80/live/294bc5dd71dbad51fd7b6a81aa83fa3c.flv
-
-#EXTINF:-1 tvg-id="6028" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="台灣", 中視 HD （源1）
-http://hls.ws.anyrtc.io:80/live/e553b20294ad5150680d20633efceb59.flv
-
-#EXTINF:-1 tvg-id="6028" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="台灣", 中視 HD （源2）
-http://192.200.108.130:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-
-#EXTINF:-1 tvg-id="7135" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E6%B0%91%E8%A7%86.png" group-title="台灣", 民視 HD
-http://hls.ws.anyrtc.io:80/live/25b13e3115d277294fcec3f710dcec9f.flv
-
-#EXTINF:-1 tvg-id="6070" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="台灣", 中天新聞 HD （源1）
-http://hls.ws.anyrtc.io:80/live/c98e12d81e4006a12b13117d40e9ddb8.flv
-
-#EXTINF:-1 tvg-id="6070" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="台灣", 中天新聞 HD （源2）
-http://192.200.108.130:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-
-#EXTINF:-1 tvg-id="7176" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="台灣", 中視新聞 HD 備
-http://pili-live-hdl.qhmywl.com/dsdtv/cf4d66edc142b2f0cc8c71bca56b2268.flv
-
-#EXTINF:-1 tvg-id="6069" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台灣", 東森新聞 HD （源1）
-http://hls.ws.anyrtc.io:80/live/1023f58cd548eecdc8aba9ba68734162.flv
-
-#EXTINF:-1 tvg-id="6069" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台灣", 東森新聞 HD （源2）
-http://192.154.103.74:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-
-#EXTINF:-1 tvg-id="6075" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="台灣", 東森財經新聞 HD 備
-http://pili-live-hdl.qhmywl.com/dsdtv/10e21c98ff74745141a386d91da24c56.flv
-
-#EXTINF:-1 tvg-id="6073" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="台灣", TVBS新聞台 HD （源1）
+#EXTINF:-1 tvg-id="6073" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="台灣", TVBS新聞台 HD
 http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
-
-#EXTINF:-1 tvg-id="6073" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="台灣", TVBS新聞台 HD （源2）
-http://hls.ws.anyrtc.io:80/live/b6c05fd67ccc7eedc0d8fc7af06fef96.flv
 
 #EXTINF:-1 tvg-id="6072" tvg-logo="http://www.tvyan.com/uploads/dianshi/setxinwen.jpg" group-title="台灣", 三立新聞 HD
 http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
 
 #EXTINF:-1 tvg-id="6071" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台灣", 民視新聞台 HD
 https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-
-#EXTINF:-1 tvg-id="6076" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="台灣", 非凡新聞 HD 備
-http://pili-live-hdl.qhmywl.com/dsdtv/408a2834f703f2162d0d5b5789344c39.flv
-
-#EXTINF:-1 tvg-id="6068" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%B9%B4%E4%BB%A3ERANewsHD.png" group-title="台灣", 年代新聞 HD
-http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
-
-#EXTINF:-1 tvg-id="6067" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="台灣", 壹新聞 HD 備
-http://ad.mysisli.com/live/NEXTTVHD/index.m3u8
-
-#EXTINF:-1 tvg-id="6171" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台灣", 寰宇新聞台
-http://hls.ws.anyrtc.io:80/live/b3e2376a840d2e85bc53f3aee5c27833.flv
-
-#EXTINF:-1 tvg-id="7177" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews2.png" group-title="台灣", 寰宇新聞2台 備
-http://pili-live-hdl.qhmywl.com/dsdtv/0d192b1fb482857fb4694a12c2718302.flv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png" group-title="Global", 新唐人亞太台
 https://live.ntdimg.com/aplive200/playlist.m3u8
@@ -442,33 +376,3 @@ https://live.ntdimg.com/sflive990/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png" group-title="Global", 新唐人休斯頓台
 https://live.ntdimg.com/htlive480/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Global", ACNA
-http://pili-live-hdl.qhmywl.com/dsdtv/1aab6cf57296bdefc6f4bea94702782a.flv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Global", BBC World News
-http://pili-live-hdl.qhmywl.com/dsdtv/6d735caeaf70f8901aa00f86aefc4dde.flv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Global", Bloombreg TV
-http://pili-live-hdl.qhmywl.com/dsdtv/ab2450af4c80b52d0810eceaf055abee.flv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Global", euronews
-http://pili-live-hdl.qhmywl.com/dsdtv/7c52797bf1ca2da52c212bdead1d607c.flv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Global", CNA
-http://pili-live-hdl.qhmywl.com/dsdtv/1aab6cf57296bdefc6f4bea94702782a.flv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Global", CNN
-http://pili-live-hdl.qhmywl.com/dsdtv/5ff1924613169c0b7148e528d0cfe0fd.flv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Global", FOX NEWS
-http://pili-live-hdl.qhmywl.com/dsdtv/b78a7c4f460285596b53bfa802eca8e8.flv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Global", NHK
-http://pili-live-hdl.qhmywl.com/dsdtv/6c2713799277ea6ea2d3bfd0d4c31f88.flv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Global", NHK WORLD
-http://pili-live-hdl.qhmywl.com/dsdtv/1b06c6242b2fd17ab11a21d70abb2e67.flv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Global", TVN
-http://pili-live-hdl.qhmywl.com/dsdtv/060e39b20b7616170ba4ba63c53bc336.flv
