@@ -392,6 +392,9 @@ http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Global", National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Global", Nat Geo People
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Global", Nat Geo Wild
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/index.m3u8
 
@@ -400,6 +403,9 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Global", Nippon TV News24 Japan
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Global", sky news
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Global", TRT World
 https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
@@ -451,9 +457,6 @@ http://pili-live-hdl.qhmywl.com/dsdtv/6c2713799277ea6ea2d3bfd0d4c31f88.flv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Global", NHK WORLD
 http://pili-live-hdl.qhmywl.com/dsdtv/1b06c6242b2fd17ab11a21d70abb2e67.flv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Global", sky news
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Global", TVN
 http://pili-live-hdl.qhmywl.com/dsdtv/060e39b20b7616170ba4ba63c53bc336.flv
