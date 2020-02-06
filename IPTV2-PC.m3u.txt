@@ -1,0 +1,112 @@
+#EXTM3U
+#EXTINF:-1,港台電視31
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
+
+#EXTINF:-1,港台電視32
+http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
+
+#EXTINF:-1,香港電台直播台
+http://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
+
+#EXTINF:-1,無綫新聞台
+http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+
+#EXTINF:-1,有線新聞台 HD
+http://wowgua.com/live/channel_109.m3u8
+
+#EXTINF:-1,有線新聞台 HD（備）
+https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/index.m3u8
+
+#EXTINF:-1,有線直播新聞台
+http://wowgua.com/live/channel_110.m3u8
+
+#EXTINF:-1,鳳凰衛視中文台
+http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
+
+#EXTINF:-1,鳳凰衛視資訊台
+http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
+
+#EXTINF:-1,鳳凰衛視香港台
+http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
+
+#EXTINF:-1,now直播台
+http://wowgua.com/live/channel_331.m3u8
+
+#EXTINF:-1,now新聞台
+http://wowgua.com/live/channel_332.m3u8
+
+#EXTINF:-1,香港01直播
+https://live.cdn.hk01.com/origin/smil:01news.smil/playlist.m3u8
+
+#EXTINF:-1,東網直播1台
+https://stream-sd2.on.cc/src/smil:remote1.smil/playlist.m3u8
+
+#EXTINF:-1,東網直播2台
+https://stream-sd4.on.cc/src/smil:remote1.smil/playlist.m3u8
+
+#EXTINF:-1,澳門資訊
+http://live4.tdm.com.mo/ch5/_difinst_/info_ch5.live/playlist.m3u8
+
+#EXTINF:-1,TVBS新聞台 HD
+http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
+
+#EXTINF:-1,三立新聞 HD
+http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
+
+#EXTINF:-1,民視新聞台 HD
+https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+
+#EXTINF:-1,新唐人亞太台
+https://live.ntdimg.com/aplive200/playlist.m3u8
+
+#EXTINF:-1,新唐人大陸台
+http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
+
+#EXTINF:-1,RFA 1
+https://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
+
+#EXTINF:-1,VOA美國之音
+https://stream.radiojar.com/7thwu53r92quv
+
+#EXTINF:-1,VOA衛視
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
+
+#EXTINF:-1,Al-Jazeera English
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+
+#EXTINF:-1,CBSNEWS
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/segment12536071_1800_av-p.ts?sd=10
+
+#EXTINF:-1,CNN US
+http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8
+
+#EXTINF:-1,DPRK Central Television
+http://tv.nknews.org/tvhls/stream.m3u8
+
+#EXTINF:-1,KCTV
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+
+#EXTINF:-1,National Geographic
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/index.m3u8
+
+#EXTINF:-1,Nat Geo People
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/index.m3u8
+
+#EXTINF:-1,Nat Geo Wild
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/index.m3u8
+
+#EXTINF:-1,NHK World
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index.m3u8
+
+#EXTINF:-1,Nippon TV News24 Japan
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+
+#EXTINF:-1,sky news
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
+
+#EXTINF:-1,TRT World
+https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:-1,YTN Korean
+http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/playlist.m3u8
+
