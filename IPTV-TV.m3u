@@ -12,7 +12,7 @@ https://aldirect.hls.huya.com/backsrc/94525224-2681535894-11517108967780122624-2
 https://aldirect.hls.huya.com/backsrc/1099531728252-1099531728252-86330887054032896-2199063579960-10057-A-0-1.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中国大陆", CCTV-1 综合 高清
-,http://119.167.204.85/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+http://119.167.204.85/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="中国大陆", CCTV-2 财经 高清
 http://119.167.204.85/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
