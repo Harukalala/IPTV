@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="中国大陆", 央视新闻
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/10/8/1570468475876_655.png" group-title="中国大陆", 央视新闻
 https://aldirect.hls.huya.com/backsrc/94525224-2687807366-11544044734917902336-2847699228-10057-A-0-1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="中国大陆", 雷神山医院1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/10/8/1570468475876_655.png" group-title="中国大陆", 雷神山医院1
 https://aldirect.hls.huya.com/backsrc/1099531728255-1099531728255-86330899938934784-2199063579966-10057-A-0-1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="中国大陆", 雷神山医院2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/10/8/1570468475876_655.png" group-title="中国大陆", 雷神山医院2
 https://aldirect.hls.huya.com/backsrc/94525224-2681535894-11517108967780122624-2847687662-10057-A-0-1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="中国大陆", 雷神山医院3
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/10/8/1570468475876_655.png" group-title="中国大陆", 雷神山医院3
 https://aldirect.hls.huya.com/backsrc/1099531728252-1099531728252-86330887054032896-2199063579960-10057-A-0-1.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中国大陆", CCTV-1 综合 高清
@@ -62,8 +62,11 @@ http://140.249.30.106/tlivecloud-cdn.ysp.cctv.cn/2000205003.m3u8
 #EXTINF:-1 tvg-id="17" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/m3u/master/TVlogos/CCTV17.png" group-title="中国大陆", CCTV-17 农业农村 高清
 http://140.249.30.106/tlivecloud-cdn.ysp.cctv.cn/2000204203.m3u8
 
-#EXTINF:-1 tvg-id="106" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中国大陆", CCTV-4K 超高清
-http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+#EXTINF:-1 tvg-id="50" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="中国大陆", 江西卫视 高清
+http://119.167.204.85/tlivecloud-cdn.ysp.cctv.cn/001/2000294103.m3u8
+
+#EXTINF:-1 tvg-id="30" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="中国大陆", 北京卫视 高清
+http://119.167.204.85/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u8
 
 #EXTINF:-1 tvg-id="27" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="中国大陆", 湖南卫视 高清
 http://119.167.204.85/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
@@ -73,9 +76,6 @@ http://119.167.204.85/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
 
 #EXTINF:-1 tvg-id="29" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="中国大陆", 江苏卫视 高清
 http://119.167.204.85/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
-
-#EXTINF:-1 tvg-id="30" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="中国大陆", 北京卫视 高清
-http://119.167.204.85/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u8
 
 #EXTINF:-1 tvg-id="31" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="中国大陆", 东方卫视 高清
 http://119.167.204.85/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
@@ -107,9 +107,6 @@ http://119.167.204.85/tlivecloud-cdn.ysp.cctv.cn/001/2000292503.m3u8
 #EXTINF:-1 tvg-id="48" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="中国大陆", 湖北卫视 高清
 http://119.167.204.85/tlivecloud-cdn.ysp.cctv.cn/001/2000294503.m3u8
 
-#EXTINF:-1 tvg-id="50" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="中国大陆", 江西卫视 高清
-http://119.167.204.85/tlivecloud-cdn.ysp.cctv.cn/001/2000294103.m3u8
-
 #EXTINF:-1 tvg-id="47" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="中国大陆", 河南卫视 高清
 http://119.167.204.85/tlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8
 
@@ -125,7 +122,7 @@ http://119.167.204.85/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
 #EXTINF:-1 tvg-id="56" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="中国大陆", 四川卫视 高清
 http://119.167.204.85/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
 
-#EXTINF:-1 tvg-id="56" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="中国大陆", 海南卫视 高清
+#EXTINF:-1 tvg-id="56" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="中国大陆", 海南卫视 高清
 http://119.167.204.85/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
 
 #EXTINF:-1 tvg-id="39" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="中国大陆", 天津卫视 高清
@@ -158,6 +155,18 @@ http://39.135.34.157:18890/000000001000/1000000002000024694/1.m3u8?channel-id=ys
 #EXTINF:-1 tvg-id="42" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="中国大陆", 甘肃卫视
 http://39.135.34.158:18890/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000017827&owchid=ystenlive&owsid=1106497909461366475&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhA4sBZEsqnSa3KvsIaVI9wPS8Gj6lJe1Zo41ze%2fWmzecpyT4Tmxoc1paT1vcrQhVS
 
+#EXTINF:-1 tvg-id="6241" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="中国大陆", CHC高清电影
+rtmp://58.200.131.2:1935/livetv/chchd
+
+#EXTINF:-1 tvg-id="6246" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="中国大陆", CHC家庭电影
+rtmp://58.200.131.2:1935/livetv/chctv
+
+#EXTINF:-1 tvg-id="6245" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="中国大陆", CHC动作电影
+rtmp://58.200.131.2:1935/livetv/chcatv
+
+#EXTINF:-1 tvg-id="106" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中国大陆", CCTV-4K 超高清
+http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="中国大陆", 广东综艺4K
 http://27.36.62.162:9090/live/GDZYHD4K_38000.m3u8
 
@@ -172,15 +181,6 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.loli.net/2019/12/29/XhAaZzVgo42ESfc.png" group-title="中国大陆", 爱上4K
 http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
-
-#EXTINF:-1 tvg-id="6241" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="中国大陆", CHC高清电影
-rtmp://58.200.131.2:1935/livetv/chchd
-
-#EXTINF:-1 tvg-id="6246" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="中国大陆", CHC家庭电影
-rtmp://58.200.131.2:1935/livetv/chctv
-
-#EXTINF:-1 tvg-id="6245" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="中国大陆", CHC动作电影
-rtmp://58.200.131.2:1935/livetv/chcatv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk31.jpg" group-title="香港", 港台電視31
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
