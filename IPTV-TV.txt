@@ -1,3 +1,4 @@
+央视,#genre#
 央视新闻,https://aldirect.hls.huya.com/backsrc/94525224-2687807366-11544044734917902336-2847699228-10057-A-0-1.m3u8
 雷神山实时画面VR,http://mobilelive-play.ysp.cctv.cn:80/2001923601.m3u8
 雷神山实时画面1,http://mobilelive-play.ysp.cctv.cn:80/2001893301.m3u8
@@ -25,6 +26,8 @@ CCTV-13 新闻 高清,http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/200020460
 CCTV-14 少儿 高清,http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/2000204403.m3u8
 CCTV-15 音乐 高清,http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/2000205003.m3u8
 CCTV-17 农业农村 高清,http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/2000204203.m3u8
+
+卫视,#genre#
 江西卫视 高清,http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000294103.m3u8
 北京卫视 高清,http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u8
 湖南卫视 高清,http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
@@ -78,6 +81,8 @@ BesTV 4K,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 DOX4K,http://27.36.62.162:9090/live/dox4k_16000.m3u8
 纯享 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
+
+香港,#genre#
 港台電視31,http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_5400_av-p.m3u8
 港台電視32,http://rthklive2-lh.akamaihd.net:80/i/rthk32_1@168450/index_1080_av-p.m3u8
 香港電台直播,http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8
@@ -118,6 +123,8 @@ now SPORTS PRIME,http://wowgua.com/live/channel_630.m3u8
 澳門有線 CH1,http://202.175.127.77/live/show/ch1/index.m3u8
 澳門互動新聞台,http://202.175.127.77/live/show/ch2/index.m3u8
 澳門有線 CH3,http://202.175.127.77/live/show/ch3/index.m3u8
+
+台湾,#genre#
 台視 HD,rtmp://59.124.75.156/sat/tv071
 華視 HD(1),rtmp://59.124.75.156/sat/tv111
 華視 HD(2),http://192.154.103.75:8080//ZZ_huashi/ZZ_huashi.m3u8
@@ -145,6 +152,8 @@ TVBS新聞台 HD(2),http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 國會頻道2,http://61.58.60.230:9319/live/124.m3u8
 新唐人大陸台,http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
 新唐人亞太台,https://live.ntdimg.com/aplive200/playlist.m3u8
+
+全球,#genre#
 NHK华语世界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 RFA 1,https://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
 VOA美國之音,https://stream.radiojar.com/7thwu53r92quv
