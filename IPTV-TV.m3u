@@ -5,9 +5,6 @@ https://pl.live.weibo.com/alicdn/b7e02f08ef2a457d3669024ec9eb7a82_6M.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/10/8/1570468475876_655.png" group-title="中国大陆", 央视新闻（备）
 https://aldirect.hls.huya.com/backsrc/94525224-2687807366-11544044734917902336-2847699228-10057-A-0-1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/10/8/1570468475876_655.png" group-title="中国大陆", 雷神山实时画面VR
-http://mobilelive-play.ysp.cctv.cn:80/2001923601.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/10/8/1570468475876_655.png" group-title="中国大陆", 雷神山实时画面1
 http://mobilelive-play.ysp.cctv.cn:80/2001893301.m3u8
 
@@ -312,10 +309,10 @@ http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 http://teslagram.com/live/channel_331.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/nownews.png" group-title="香港", now新聞台
-http://teslagram.com/channel_332.m3u8
+http://teslagram.com/live/channel_332.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/nowsportsprime.png" group-title="香港", now SPORTS PRIME
-http://teslagram.com/channel_630.m3u8
+http://teslagram.com/live/channel_630.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hkatv.com/images/logo.png" group-title="香港", 亞視香港追撃搜
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
