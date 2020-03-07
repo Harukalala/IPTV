@@ -188,16 +188,16 @@ http://39.135.15.70:6610/PLTV/88888888/224/3221225696/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tvyan.com/uploads/dianshi/anduo.jpg" group-title="中国大陆", 安多卫视
 http://111.40.205.76/PLTV/88888888/224/3221225659/index.m3u8
 
-#EXTINF:-1 tvg-id="73" tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv1.jpg" group-title="中国大陆",CETV-1 高清
+#EXTINF:-1 tvg-id="73" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="中国大陆",CETV-1 高清
 http://CDN-in.iqy.sc96655.com/tslive/c213_scc_20190618_hckfiiqn_original_r10/c213_scc_20190618_hckfiiqn_original_r10.m3u8&
 
-#EXTINF:-1 tvg-id="74" tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv2.jpg" group-title="中国大陆",CETV-2
+#EXTINF:-1 tvg-id="74" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="中国大陆",CETV-2
 http://47.240.60.73/migu.php?id=649531734
 
-#EXTINF:-1 tvg-id="75" tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv3.png" group-title="中国大陆",CETV-3
+#EXTINF:-1 tvg-id="75" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="中国大陆",CETV-3
 http://47.240.60.73/migu.php?id=649531756
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv4.png" group-title="中国大陆",CETV-4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv4.jpg" group-title="中国大陆",CETV-4
 http://47.240.60.73/migu.php?id=649531725
 
 #EXTINF:-1 tvg-id="6581" tvg-logo="http://tv.sason.xyz/logo/cetvzqjy.png" group-title="中国大陆",CETV 早期教育
@@ -218,7 +218,7 @@ rtmp://58.200.131.2:1935/livetv/chctv
 #EXTINF:-1 tvg-id="6245" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="中国大陆", CHC动作电影
 rtmp://58.200.131.2:1935/livetv/chcatv
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="中国大陆", 北京冬奥纪实
+#EXTINF:-1 tvg-id="1872" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="中国大陆", 北京冬奥纪实
 http://39.135.15.70:6610/PLTV/88888888/224/3221226075/1/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="106" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中国大陆", CCTV-4K 超高清
@@ -449,10 +449,10 @@ http://seb.sason.top/tv/tvbsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6072" tvg-logo="http://www.tvyan.com/uploads/dianshi/setxinwen.jpg" group-title="台灣", 三立新聞 HD
 http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
 
-#EXTINF:-1 tvg-id="0" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="台灣", 三立LIVE新聞 HD
+#EXTINF:-1 tvg-id="0" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/setlivenews.png" group-title="台灣", 三立LIVE新聞
 http://seb.sason.top/tv/sllive_fhd.m3u8
 
-#EXTINF:-1 tvg-id="6072" tvg-logo="http://tv.sason.xyz/logo/slxw.png" group-title="台灣", 三立iNews HD
+#EXTINF:-1 tvg-id="6072" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="台灣", 三立iNews HD
 http://seb.sason.top/tv/slinews_fhd.m3u8
 
 #EXTINF:-1 tvg-id="6071" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台灣", 民視新聞台 HD(1)
