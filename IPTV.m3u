@@ -438,7 +438,7 @@ https://usb.bozztv.com/ssh101/NEXTTV/NEXTTV/playlist.m3u8
 https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6068" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%B9%B4%E4%BB%A3ERANewsHD.png" group-title="台灣新聞", 年代新聞
-http://192.200.97.98:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cns.net.tw/web/upload/20170214091131d9K2rgq.jpg" group-title="台灣新聞", 國會頻道1
 http://61.58.60.230:9319/live/123.m3u8
