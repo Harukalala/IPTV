@@ -242,11 +242,20 @@ http://27.36.62.162:9090/live/GDZYHD4K_38000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="中国大陆", DOX4K
 http://27.36.62.162:9090/live/dox4k_16000.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk31.jpg" group-title="香港", 港台電視31
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk31.jpg" group-title="香港", 港台電視31（1）
+http://61.93.125.49:9981/stream/channel/aec8b89b755c4ddfcedab02c54a2e5d3?profile=webtv-vp8-vorbis-webm
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk31.jpg" group-title="香港", 港台電視31（2）
 http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_5400_av-p.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk32.jpg" group-title="香港", 港台電視32
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk32.jpg" group-title="香港", 港台電視32（1）
+http://61.93.125.49:9981/stream/channel/7cd6dd68e5438718a1f412e018380c77?profile=webtv-vp8-vorbis-webm
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk32.jpg" group-title="香港", 港台電視32（2）
 http://rthklive2-lh.akamaihd.net:80/i/rthk32_1@168450/index_1080_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk32.jpg" group-title="香港", 港台電視33
+http://61.93.125.49:9981/stream/channel/2bae74bcf0b233c29621721b0f4a57b1?profile=webtv-vp8-vorbis-webm
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/RTHK.png" group-title="香港", 香港電台直播
 http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8
@@ -254,43 +263,55 @@ http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.rthk.hk/img/radio_icon/ChannelPage_Logo/radio_PTH_logo.svg" group-title="香港", 香港電台普通話台
 https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
 
-#EXTINF:-1 tvg-id="7118" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="香港", 香港開電視
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/HKIBC.png" group-title="香港", 香港國際財經台
+http://61.93.125.49:9981/stream/channel/cecbcae0c6c7ab1ec1a493a6be121a93?profile=webtv-vp8-vorbis-webm
+
+#EXTINF:-1 tvg-id="7118" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="香港", 香港開電視(1)
+http://61.93.125.49:9981/stream/channel/5b111166230d42fd6efd0ce2a224ab59?profile=webtv-vp8-vorbis-webm
+
+#EXTINF:-1 tvg-id="7118" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="香港", 香港開電視(2)
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
 #EXTINF:-1 tvg-id="126" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港", 翡翠台(1)
+http://61.93.125.49:9981/stream/channel/6bfd087e66dbeab495dfa7a74c45cb89?profile=webtv-vp8-vorbis-webm
+
+#EXTINF:-1 tvg-id="126" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港", 翡翠台(2)
 https://tv.elibei.com/tv/play?token=499b831fdfbdb8bc62b5a3b23ee3b27a&k=7449867010c26a0b26566c330d124e1e&cid=183&uid=36808
 
-#EXTINF:-1 tvg-id="126" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港", 翡翠台(2)
-http://198.16.106.58:8278/jade_twn/playlist.m3u8?tid=m0800270e38b31200553&ct=17898&tsum=b39db993e81b9ff6ebac20dcbf4a1cdd
+#EXTINF:-1 tvg-id="416" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="香港", TVB J2（1）
+http://61.93.125.49:9981/stream/channel/62b3f5f9180adc2bfbd292ad75f7616b?profile=webtv-vp8-vorbis-webm
 
-#EXTINF:-1 tvg-id="126" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港", 翡翠台(3)
-http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-
-#EXTINF:-1 tvg-id="416" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="香港", TVB J2
+#EXTINF:-1 tvg-id="416" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="香港", TVB J2（2）
 https://tv.elibei.com/tv/play?token=489c8d68b159f764ef9b6f1ce13638df&k=7449867010c26a0b26566c330d124e1e&cid=178&uid=36808
 
 #EXTINF:-1 tvg-id="130" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="香港", 無綫新聞台（1）
-http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+http://61.93.125.49:9981/stream/channel/18c131666a2f9c7f212351ea778675d3?profile=webtv-vp8-vorbis-webm
 
 #EXTINF:-1 tvg-id="130" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="香港", 無綫新聞台（2）
-http://hls.globaliptv.ml/tvbnews.php
+http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 
 #EXTINF:-1 tvg-id="130" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="香港", 無綫新聞台（3）
 https://tv.elibei.com/tv/play?token=c53c2425123852327994cc6b8b57e2e2&k=7449867010c26a0b26566c330d124e1e&cid=196&uid=36808
 
-#EXTINF:-1 tvg-id="133" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-finance.jpg" group-title="香港", 無綫財經·資訊台
-http://prdsecurelive.ainemo.com/live/234cjcj.m3u8
-
-#EXTINF:-1 tvg-id="127" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="香港", TVB明珠台(1)
+#EXTINF:-1 tvg-id="127" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="香港", TVB明珠台（1）
 https://tv.elibei.com/tv/play?token=f7d2c7dd769c478bfe767c01d4026db7&k=7449867010c26a0b26566c330d124e1e&cid=184&uid=36808
 
 #EXTINF:-1 tvg-id="127" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="香港", TVB 明珠台(2)
 http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tvyan.com/uploads/dianshi/viutv6.jpg" group-title="香港", ViuTV96
+#EXTINF:-1 tvg-id="133" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-finance.jpg" group-title="香港", 無綫財經·資訊台
+http://61.93.125.49:9981/stream/channel/8fee7c8b98145fcdab4bf626bd0fb58b?profile=webtv-vp8-vorbis-webm
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tvyan.com/uploads/dianshi/viutv6.jpg" group-title="香港", ViuTVsix（1）
+http://61.93.125.49:9981/stream/channel/59c4bda680db931ffb52d13a9013f2f9?profile=webtv-vp8-vorbis-webm
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tvyan.com/uploads/dianshi/viutv6.jpg" group-title="香港", ViuTVsix（2）
 http://viutv96-i.akamaihd.net/hls/live/265285/live1/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港", ViuTV99
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港", ViuTV（1）
+http://61.93.125.49:9981/stream/channel/59c4bda680db931ffb52d13a9013f2f9?profile=webtv-vp8-vorbis-webm
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港", ViuTV（2）
 http://viutv99-i.akamaihd.net:80/hls/live/265284/live1/master.m3u8
 
 #EXTINF:-1 tvg-id="7119" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/iCABLEFinanceInfoChannelHD.png" group-title="香港", 有線財經資訊台 HD
