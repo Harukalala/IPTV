@@ -501,7 +501,7 @@ https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
 #EXTINF:-1 tvg-id="6171" tvg-logo="http://tv.sason.xyz/logo/hyxw1.png" group-title="台灣", 寰宇新聞台
 http://125.227.198.89:8026
 
-#EXTINF:-1 tvg-id="7177" tvg-logo="http://tv.sason.xyz/logo/hyxw2.png" group-title="台灣", 寰宇新聞台湾台
+#EXTINF:-1 tvg-id="7177" tvg-logo="http://tv.sason.xyz/logo/hyxw2.png" group-title="台灣", 寰宇新聞台灣台
 http://125.227.198.89:8002
 
 #EXTINF:-1 tvg-id="6073" tvg-logo="http://tv.sason.xyz/logo/tvbsxw.png" group-title="台灣",TVBS新聞台 HD
@@ -806,76 +806,76 @@ http://125.210.152.18:9090/live/SCWSHD_H265.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="H265",东南卫视
 http://125.210.152.18:9090/live/DNWSHD_H265.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",Newtv-中国功夫
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",NewTV-中国功夫
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226321/1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",Newtv-古装剧场
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",NewTV-古装剧场
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",Newtv-动作电影
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",NewTV-动作电影
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225915/1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",Newtv-军事评论
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",NewTV-军事评论
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226326/1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",Newtv-军旅剧场
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",NewTV-军旅剧场
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226324/1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",Newtv-农业致富
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",NewTV-农业致富
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225930/1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",Newtv-明星大片
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",NewTV-明星大片
 http:///otttv.bj.chinamobile.com/PLTV/88888888/224/3221225929/1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",Newtv-金牌综艺
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",NewTV-金牌综艺
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225920/1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",Newtv-故障剧场
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",NewTV-故障剧场
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225916/1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",Newtv-炫舞未来
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",NewTV-炫舞未来
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",Newtv-健康有约
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",NewTV-健康有约
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225919/1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",Newtv-爱情喜剧
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",NewTV-爱情喜剧
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",Newtv-海外剧场
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",NewTV-海外剧场
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225917/1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",Newtv-家庭剧场
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",NewTV-家庭剧场
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",Newtv-惊悚悬疑
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",NewTV-惊悚悬疑
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225921/1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",NewTV-超级电视剧
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",Newtv-超级电影
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",NewTV-超级电影
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226133/1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",Newtv-超级体育
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",NewTV-超级体育
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",Newtv-超级综艺
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",NewTV-超级综艺
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",Newtv-搏击
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",NewTV-搏击
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226320/1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",Newtv-精品大剧
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",NewTV-精品大剧
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",Newtv-精品记录
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",NewTV-精品记录
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225924/1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",Newtv-精品体育
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",NewTV-精品体育
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225922/1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",Newtv-潮妈辣婆
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/NewTV.png" group-title="NewTV",NewTV-潮妈辣婆
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225957/1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="直播中国", 全国风景总览
