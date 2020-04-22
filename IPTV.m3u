@@ -12,16 +12,16 @@ http://mobilelive-play.ysp.cctv.cn:80/2001924601.m3u8
 http://livecdn1.news.cn/cnccn/manifest.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中国大陆", CCTV-1 综合 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="中国大陆", CCTV-2 财经 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="中国大陆", CCTV-3 综艺 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="中国大陆", CCTV-4 中文国际 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="中国大陆", CCTV-4 中文国际美洲
 https://cctvcnch5ca.v.wscdns.com/live/cctvamerica_2/index.m3u8
@@ -30,7 +30,7 @@ https://cctvcnch5ca.v.wscdns.com/live/cctvamerica_2/index.m3u8
 https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="中国大陆", CCTV-5 体育 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/CCTV5+.png" group-title="中国大陆", CCTV-5+ 体育赛事 高清
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/2000204503.m3u8
@@ -42,31 +42,31 @@ http://118.123.60.5:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hl
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/2000510003.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="中国大陆", CCTV-8 电视剧 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000203903.m3u8
 
 #EXTINF:-1 tvg-id="10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="中国大陆", CCTV-9 纪录 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
 
 #EXTINF:-1 tvg-id="11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="中国大陆", CCTV-10 科教 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000203503.m3u8
 
 #EXTINF:-1 tvg-id="12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="中国大陆", CCTV-11 戏曲 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000204103.m3u8
 
 #EXTINF:-1 tvg-id="13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="中国大陆", CCTV-12 社会与法 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000202603.m3u8
 
 #EXTINF:-1 tvg-id="14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="中国大陆", CCTV-13 新闻 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 
 #EXTINF:-1 tvg-id="15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="中国大陆", CCTV-14 少儿 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
 
 #EXTINF:-1 tvg-id="16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="中国大陆", CCTV-15 音乐 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
 
 #EXTINF:-1 tvg-id="17" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/CCTV17.png" group-title="中国大陆", CCTV-17 农业农村 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVxiqu.png" group-title="中国大陆", CCTV-戏曲
 http://61.58.60.230:9319/live/223.m3u8
@@ -75,67 +75,67 @@ http://61.58.60.230:9319/live/223.m3u8
 http://61.58.60.230:9319/live/224.m3u8
 
 #EXTINF:-1 tvg-id="50" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="中国大陆", 江西卫视 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000294103.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000294103.m3u8
 
 #EXTINF:-1 tvg-id="30" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="中国大陆", 北京卫视 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000272103.m3u8
 
 #EXTINF:-1 tvg-id="27" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="中国大陆", 湖南卫视 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
 
 #EXTINF:-1 tvg-id="28" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="中国大陆", 浙江卫视 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000295503.m3u8
 
 #EXTINF:-1 tvg-id="29" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="中国大陆", 江苏卫视 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
 
 #EXTINF:-1 tvg-id="31" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="中国大陆", 东方卫视 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000292403.m3u8
 
 #EXTINF:-1 tvg-id="32" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="中国大陆", 安徽卫视 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000298003.m3u8
 
 #EXTINF:-1 tvg-id="33" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="中国大陆", 广东卫视 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000292703.m3u8
 
 #EXTINF:-1 tvg-id="34" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="中国大陆", 深圳卫视 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000292203.m3u8
 
 #EXTINF:-1 tvg-id="36" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="中国大陆", 辽宁卫视 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000281303.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000281303.m3u8
 
 #EXTINF:-1 tvg-id="46" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="中国大陆", 黑龙江卫视 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000293903.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000293903.m3u8
 
 #EXTINF:-1 tvg-id="38" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="中国大陆", 山东卫视 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000294803.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000294803.m3u8
 
 #EXTINF:-1 tvg-id="40" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="中国大陆", 重庆卫视 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000297803.m3u8
 
 #EXTINF:-1 tvg-id="41" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="中国大陆", 福建东南卫视 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000292503.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000292503.m3u8
 
 #EXTINF:-1 tvg-id="48" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="中国大陆", 湖北卫视 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000294503.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000294503.m3u8
 
 #EXTINF:-1 tvg-id="47" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="中国大陆", 河南卫视 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000296103.m3u8
 
 #EXTINF:-1 tvg-id="45" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="中国大陆", 河北卫视 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000293403.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000293403.m3u8
 
 #EXTINF:-1 tvg-id="44" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="中国大陆", 贵州卫视 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000293303.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000293303.m3u8
 
 #EXTINF:-1 tvg-id="43" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="中国大陆", 广西卫视 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
 
 #EXTINF:-1 tvg-id="56" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="中国大陆", 四川卫视 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000295003.m3u8
 
 #EXTINF:-1 tvg-id="37" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="中国大陆", 海南卫视 高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000291503.m3u8
 
 #EXTINF:-1 tvg-id="39" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="中国大陆", 天津卫视 高清
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
@@ -465,7 +465,6 @@ http://202.175.127.77/live/show/ch2/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.macaucabletv.com/wp-content/uploads/CH3.png" group-title="澳門", 澳門有線 CH3
 http://202.175.127.77/live/show/ch3/index.m3u8
 
-
 #EXTINF:-1 tvg-id="6030" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台灣", 華視 HD(1)
 http://125.227.198.89:8019
 
@@ -486,7 +485,11 @@ http://125.227.198.89:8019
 
 #EXTINF:-1 tvg-id="6031" tvg-logo="http://tv.sason.xyz/logo/gs.png" group-title="台灣", 公視 HD
 http://125.227.198.89:8014
-#EXTINF:-1 tvg-id="6022" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV3HD.png" group-title="台灣", 公視3 HD
+
+#EXTINF:-1 tvg-id="gs3" tvg-logo="http://tv.sason.xyz/logo/gs3.png" group-title="台灣", 公視3 HD(1)
+http://125.227.198.89:8006
+
+#EXTINF:-1 tvg-id="6022" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV3HD.png" group-title="台灣", 公視3 HD(2)
 https://usb.bozztv.com/ssh101/PTSTV3HD/PTSTV3HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6034" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png" group-title="台灣", 原住民族電視台
@@ -497,6 +500,9 @@ http://192.154.103.75:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 
 #EXTINF:-1 tvg-id="6144" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E8%B4%A2%E7%BB%8F.png" group-title="台灣", 台視財經 HD
 https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
+
+#EXTINF:-1 tvg-id="tscj" tvg-logo="http://tv.sason.xyz/logo/tscj.png" group-title="台灣", 台視財經
+http://125.227.198.89:8025
 
 #EXTINF:-1 tvg-id="6171" tvg-logo="http://tv.sason.xyz/logo/hyxw1.png" group-title="台灣", 寰宇新聞台
 http://125.227.198.89:8026
@@ -564,6 +570,21 @@ http://61.58.60.230:9319/live/123.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cns.net.tw/web/upload/20170214091539pbPDjYJ.jpg" group-title="台灣", 國會頻道2
 http://61.58.60.230:9319/live/124.m3u8
 
+#EXTINF:-1 tvg-id="zsjd" tvg-logo="http://tv.sason.xyz/logo/zsjd.png" group-title="台灣", 中视經典
+http://125.227.198.89:8007
+
+#EXTINF:-1 tvg-id="zsjc" tvg-logo="http://tv.sason.xyz/logo/zsjc.png" group-title="台灣", 中视菁采
+http://125.227.198.89:8008
+
+#EXTINF:-1 tvg-id="tszh" tvg-logo="http://tv.sason.xyz/logo/tszh.png" group-title="台灣", 台視綜合
+http://125.227.198.89:8004
+
+#EXTINF:-1 tvg-id="mstwt" tvg-logo="http://tv.sason.xyz/logo/mstwt.png" group-title="台灣", 民視台灣台 HD
+http://125.227.198.89:8023
+
+#EXTINF:-1 tvg-id="msdyt" tvg-logo="http://tv.sason.xyz/logo/msdyt.png" group-title="台灣", 民視第一台 HD
+http://125.227.198.89:8024
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png" group-title="Global", 新唐人大陸台
 http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
 
@@ -622,7 +643,7 @@ https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Sour
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
 #EXTINF:-1 tvg-id="20" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="Global", CGTN
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2001656803.m3u8
 
 #EXTINF:-1 tvg-id="891" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="Global", CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
