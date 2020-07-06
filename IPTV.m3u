@@ -338,7 +338,7 @@ https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="香港", 香港開電視
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="香港", 耀才财经
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/BSTV.png" group-title="香港", 耀才财经
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="130" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="香港", 無綫新聞台
@@ -471,10 +471,13 @@ http://hdtv.ub1818.com/ublive/index_40.m3u8
 http://p06.iptv2asia.com:18888/http/005
 
 #EXTINF:-1 tvg-id="6030" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台灣", 華視 HD
+http://104.250.154.42:8080//ZZ_huashi/ZZ_huashi.m3u8
+
+#EXTINF:-1 tvg-id="6030" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台灣", 華視 HD
 http://hdtv.ub1818.com/ublive/index_15.m3u8
 
 #EXTINF:-1 tvg-id="6030" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台灣", 華視 HD
-http://104.250.154.42:8080//ZZ_huashi/ZZ_huashi.m3u8
+http://p06.iptv2asia.com:18888/http/009
 
 #EXTINF:-1 tvg-id="6026" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="台灣", 台視 HD
 rtmp://xiaoyu.speedws.com/sat/tv071
@@ -494,8 +497,17 @@ http://hdtv.ub1818.com/ublive/index_16.m3u8
 #EXTINF:-1 tvg-id="7135" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="台灣", 民視 HD
 http://hdtv.ub1818.com/ublive/index_4.m3u8
 
+#EXTINF:-1 tvg-id="7135" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="台灣", 民視 HD
+http://p06.iptv2asia.com:18888/http/012
+
 #EXTINF:-1 tvg-id="6034" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png" group-title="台灣", 原住民族電視台
 https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="6034" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png" group-title="台灣", 原住民族電視台
+http://p06.iptv2asia.com:18888/http/020
+
+#EXTINF:-1 tvg-id="6035" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HakkaTV.png" group-title="台灣", 客家電視
+http://p06.iptv2asia.com:18888/http/019
 
 #EXTINF:-1 tvg-id="6074" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="台灣", TVBS HD
 http://hdtv.ub1818.com/ublive/index_5.m3u8
@@ -506,17 +518,29 @@ http://seb.sason.top/sc/zsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="7176" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="台灣", 中視新聞 HD
 http://hdtv.ub1818.com/ublive/index_9.m3u8
 
+#EXTINF:-1 tvg-id="7176" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="台灣", 中視新聞 HD
+http://p06.iptv2asia.com:18888/http/006
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/CTSNews.png" group-title="台灣", 華視新聞資訊 HD
 http://seb.sason.top/sc/hsxw_fhd.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/CTSNews.png" group-title="台灣", 華視新聞資訊 HD
 http://hdtv.ub1818.com/ublive/index_10.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/CTSNews.png" group-title="台灣", 華視新聞資訊 HD
+http://p06.iptv2asia.com:18888/http/010
+
 #EXTINF:-1 tvg-id="6143" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="台灣", 台視新聞 HD
 http://seb.sason.top/sc/tsxw_fhd.m3u8
 
+#EXTINF:-1 tvg-id="6143" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="台灣", 台視新聞 HD
+http://p06.iptv2asia.com:18888/http/004
+
 #EXTINF:-1 tvg-id="6144" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视财经.png" group-title="台灣", 台視財經 HD
 http://hdtv.ub1818.com/ublive/index_38.m3u8
+
+#EXTINF:-1 tvg-id="6144" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视财经.png" group-title="台灣", 台視財經
+http://p06.iptv2asia.com:18888/http/003
 
 #EXTINF:-1 tvg-id="6071" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台灣", 民視新聞台 HD
 http://seb.sason.top/sc/msxw_fhd.m3u8
@@ -572,14 +596,29 @@ http://61.58.60.230:9319/live/124.m3u8
 #EXTINF:-1 tvg-id="7136" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视菁采.png" group-title="台灣", 中視菁釆
 http://hdtv.ub1818.com/ublive/index_7.m3u8
 
+#EXTINF:-1 tvg-id="7136" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视菁采.png" group-title="台灣", 中視菁釆
+http://p06.iptv2asia.com:18888/http/008
+
 #EXTINF:-1 tvg-id="7172" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视经典.png" group-title="台灣", 中視經典
 http://p06.iptv2asia.com:18888/http/007
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/CTSIQ.png" group-title="台灣", 華視教育體育文化 HD
+http://p06.iptv2asia.com:18888/http/011
+
+#EXTINF:-1 tvg-id="6145" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视综合.png" group-title="台灣", 台視綜合
+http://p06.iptv2asia.com:18888/http/002
 
 #EXTINF:-1 tvg-id="7133" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="台灣", 民視第一台 HD
 http://hdtv.ub1818.com/ublive/index_2.m3u8
 
+#EXTINF:-1 tvg-id="7133" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="台灣", 民視第一台 HD
+http://p06.iptv2asia.com:18888/http/014
+
 #EXTINF:-1 tvg-id="7134" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="台灣", 民視台灣台 HD
 http://hdtv.ub1818.com/ublive/index_3.m3u8
+
+#EXTINF:-1 tvg-id="7134" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="台灣", 民視台灣台 HD
+http://p06.iptv2asia.com:18888/http/013
 
 #EXTINF:-1 tvg-id="7145" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png" group-title="台灣", 民視綜藝
 http://hdtv.ub1818.com/ublive/index_11.m3u8
@@ -602,7 +641,7 @@ http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
 #EXTINF:-1 tvg-id="6046" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="台灣", 八大綜合台 HD
 http://hdtv.ub1818.com/ublive/index_12.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="台灣", 八大綜合台 HD
+#EXTINF:-1 tvg-id="6046" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="台灣", 八大綜合台 HD
 http://104.250.154.42:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="台灣", 八大精彩台
