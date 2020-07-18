@@ -368,10 +368,10 @@ http://tv.sason.xyz/proxy/tvb.php?id=xw
 #EXTINF:-1 tvg-id="133" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-finance.jpg" group-title="香港", 無綫財經·資訊台
 http://tv.sason.xyz/proxy/tvb.php?id=cj
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tvyan.com/uploads/dianshi/viutv6.jpg" group-title="香港", ViuTVsix
+#EXTINF:-1 tvg-id="ViuTV96.hk" tvg-logo="http://www.tvyan.com/uploads/dianshi/viutv6.jpg" group-title="香港", ViuTVsix
 http://nb.iptv88888.xyz/hls/viutv6.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港", ViuTV
+#EXTINF:-1 tvg-id="ViuTV99.hk" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港", ViuTV
 http://nb.iptv88888.xyz/hls/viutv.m3u8
 
 #EXTINF:-1 tvg-id="7119" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/iCABLEFinanceInfoChannelHD.png" group-title="香港", 有線財經資訊台 HD
