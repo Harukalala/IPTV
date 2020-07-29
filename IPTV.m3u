@@ -986,7 +986,7 @@ http://211.245.55.198:1024/m2u/239.192.58.7:49220
 #EXTINF:-1 tvg-ID="KS1.KR" tvg-logo="https://static.epg.best/kr/KBS1.kr.png" group-title="Global",KBS 1
 http://211.245.55.198:1024/m2u/239.192.67.100:49220
 
-#EXTINF:-1 tvg-ID="KS2.KR" tvg-logo="https://static.epg.best/kr/KBS2.kr.png" group-title="韩国",KBS 2
+#EXTINF:-1 tvg-ID="KS2.KR" tvg-logo="https://static.epg.best/kr/KBS2.kr.png" group-title="Global",KBS 2
 http://211.245.55.198:1024/m2u/239.192.67.99:49220
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvtolive.com/wp-content/uploads/KBS-24-tvtolive.com_.jpg" group-title="Global", KBS 24
